@@ -1,0 +1,73 @@
+body{
+  background-image: url('background.jpg');
+  background-size: cover;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+}
+
+.box{
+  background-color: rgba(0, 0, 0, 0.5);
+  margin: 80px;
+}
+
+.container1{
+  margin: auto;
+  text-align: center;
+  width: 650px;
+}
+
+.logo {
+  width: 170px;
+}
+
+.logo-text {
+  color: #00dd00;
+}
+
+nav{
+  background-color: #00dd00;
+  height: 32px;
+}
+
+button{
+  margin-top: 6px;
+}
+
+.container2{
+  margin: auto;
+  width: 650px;
+}
+
+.arrow:after{
+  content: "\21A6";
+}
+
+.row2{
+  display: block;
+  font-weight: lighter;
+  font-size: 11px;
+}
+
+.carica1, .carica2, .carica3 {
+  margin: inherit;
+  height: 23px;
+  border-radius: 4px
+}
+
+.carica1{
+  background-color: #f5b453;
+  border: #f5b453;
+  width: 230px;
+}
+
+.carica2{
+  background-color: #00dd00;
+  border: #00dd00;
+  width: 400px;
+}
+
+.carica3{
+  background-color: #be4141;
+  border: #be4141;
+  width: 100px;
+}
